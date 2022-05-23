@@ -9,7 +9,7 @@ namespace riskmanagement;
  descr : String;
  miti : Association to Mitigations;
  impact : Integer;
- //bp : Association to BusinessPartners;
+ bp : Association to BusinessPartners;
  // You will need this definition in a later step
  criticality : Integer;
  
